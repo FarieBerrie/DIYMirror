@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/DIYMirror/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/DIYMirror/static/js/main.691561ad.chunk.js",
+    "main.js.map": "/DIYMirror/static/js/main.691561ad.chunk.js.map",
+    "runtime-main.js": "/DIYMirror/static/js/runtime-main.2c39d691.js",
+    "runtime-main.js.map": "/DIYMirror/static/js/runtime-main.2c39d691.js.map",
+    "static/css/2.829ada22.chunk.css": "/DIYMirror/static/css/2.829ada22.chunk.css",
+    "static/js/2.7790d76e.chunk.js": "/DIYMirror/static/js/2.7790d76e.chunk.js",
+    "static/js/2.7790d76e.chunk.js.map": "/DIYMirror/static/js/2.7790d76e.chunk.js.map",
+    "static/js/3.83dd3448.chunk.js": "/DIYMirror/static/js/3.83dd3448.chunk.js",
+    "static/js/3.83dd3448.chunk.js.map": "/DIYMirror/static/js/3.83dd3448.chunk.js.map",
+    "index.html": "/DIYMirror/index.html",
+    "static/css/2.829ada22.chunk.css.map": "/DIYMirror/static/css/2.829ada22.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/DIYMirror/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7790d76e.chunk.js.LICENSE.txt": "/DIYMirror/static/js/2.7790d76e.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/DIYMirror/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/smirror1.2d681bb1.jpg": "/DIYMirror/static/media/smirror1.2d681bb1.jpg",
+    "static/media/smirror2.94f19a3d.jpg": "/DIYMirror/static/media/smirror2.94f19a3d.jpg",
+    "static/media/smirror3.8786ae44.jpg": "/DIYMirror/static/media/smirror3.8786ae44.jpg",
+    "static/media/smirror4.847fc3ed.jpg": "/DIYMirror/static/media/smirror4.847fc3ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c39d691.js",
+    "static/css/2.829ada22.chunk.css",
+    "static/js/2.7790d76e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.691561ad.chunk.js"
+  ]
+}
